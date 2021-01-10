@@ -1,0 +1,144 @@
+1.0 Koje boje su strumfovi?
+0  crvene
+0  zelene
+1  plave
+0  ljubicaste
+
+1.1 Koja reka protice ispod Savskog mosta ?
+0  Drina
+1  Sava
+0  Dunav
+0  Morava
+
+1.2 Koji je poslednji mesec u godini
+
+0  Mart
+0  Jun
+1  Decembar
+0  Januar
+
+2.0 Po Darvinovoj teoriji evolucije,covek je nastao od...
+
+0  puza
+0  maslacka
+0  masmule
+1  majmuna
+
+2.1 Na celu univerziteta obicno se nalazi
+
+0  kolektor
+0  lektor
+1  rektor
+0  konektor
+
+2.2 Pripadnik organa unutrasnjih poslova je ustvari...
+
+0  bubreg
+0  srce
+1  policajac
+0  mozak
+
+3.0 Kojim smerom se Zemlja okrece oko svoje ose ?
+
+1  zapad-istok
+0  sever-zapad
+0  istok-jug
+0  istok-zapad
+
+3.1 Prema poznatoj izreci, onaj ko peva...
+
+0  malo misli
+0  nista ne misli
+1  zlo ne misli
+0  ima para
+
+3.2 Kada neko nema srece,onda je taj...
+
+0  ugursuz
+1  baksuz
+0  bircuz
+0  tantuz 
+
+4.0 Najmanje kosti u organizmu su ...
+
+0  Nosne kosti
+1  Kosti srednjeg uha
+0  Kosti prstiju sake
+0  Kosti prstiju stopala
+
+4.1 Najbolji prijatelji Hari Potera su...
+
+0  Ron i Lavander
+0  Donald i Hermiona
+0  Donald i Lavander
+1  Ron i Hermiona
+
+4.2 Koji je sledeci broj u nizu: 1,4,9,16,25,36,...
+
+0  47
+0  81
+1  49
+0  64
+
+5.0 Glumac Pavle Vujisic je rodjen u ...
+
+0  Novom Sadu
+1  Beogradu
+0  Vranju
+0  Nisu
+
+5.1 Najduza reka na svetu je ...
+
+0  Misisipi
+0  Amazon
+0  Jangcekjang
+1  Nil
+
+5.2 Najotrovnija zmija na svetu je ...
+
+1  Mamba
+0  Piton
+0  Boa
+0  Anakonda
+
+6.0 Ko je izmislio diferencijalni racun ?
+
+0  LaPlas
+1  Njutn
+0  Maksvel
+0  Kosi
+
+6.1 Kralj Ostrogota se zvao ...
+
+1  Totila
+0  Gotila
+0  Ostila
+0  Atila
+
+6.2 Najvisi vrh Majevice je ...
+
+0  Rudnik
+0  Zlatni rog
+1  Stolice
+0  Jankov kamen
+
+7.0 Koliko reci, u svom recniku,Eskimi imaju za rec "rat" ?
+
+1  nula
+0  jednu
+0  dve
+0  tri
+
+7.1 Cinober je ...
+
+0  Vrsta vina
+1  Vrsta boje
+0  Vrsta drveta
+0  Vrsta zacina
+
+7.2 U kom filmu Tom Henks glumi FBI agenta ?
+
+0  Njeni roditelji
+0  Terminal
+0  Put bez povratka
+1  Uhvati me ako mozes
